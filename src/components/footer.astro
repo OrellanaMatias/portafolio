@@ -1,0 +1,50 @@
+---
+import Logo from "./logo.astro";
+---
+
+<footer
+    class="flex flex-col border-t-[1px] border-[#0001] dark:border-[#ffffff15] py-10 gap-14"
+>
+    <section
+        class="flex flex-col sm:flex-row sm:items-center gap-8 sm:justify-between"
+    >
+        <div
+            class="flex gap-2 items-center font-bold text-light-texto-primary dark:text-dark-texto-primary"
+        >
+            <Logo />Matias Orellana
+        </div>
+        <ul class="flex flex-col sm:flex-row gap-3 sm:gap-8">
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#home">Inicio</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#jobs">Experiencia</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#projects">Proyectos</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#education">Educación</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="/CV - Orellana Matias.pdf"
+                    target="_blank">Currículum</a
+                >
+            </li>
+        </ul>
+    </section>
+</footer>

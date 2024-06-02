@@ -1,0 +1,210 @@
+[
+    {
+        "id": "kantrack",
+        "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+        "projectRepo": "https://github.com/OrellanaMatias/kantrack",
+        "projectSite": "https://kantrack.orellanamatias.site",
+        "projectTitle": "KanTrack",
+        "projectSlogan": "Software de gestión de proyectos",
+        "projectDescription": "Basado en la metodologia Kanban.",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "Git",
+                "icon": "git"
+            },
+            {
+                "name": "JQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    },
+    {
+        "id": "sistemadetickets",
+        "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+        "projectRepo": "https://github.com/OrellanaMatias/sistema-de-tickets",
+        "projectSite": "https://sistema-de-tickets.orellanamatias.site",
+        "projectTitle": "Sistema de tickets",
+        "projectSlogan": "Un sistema de tickets de soporte técnico",
+        "projectDescription": "Una web que concentra una amplia colección de herramientas y utilidades para pentesters, desde herramientas de osint y enumeración hasta diccionarios y frameworks.",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "JQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap"
+            }
+        ]
+    },
+    {
+        "id": "e-book",
+        "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"],
+        "projectRepo": "https://github.com/OrellanaMatias/",
+        "projectSite": "https://e-book.orellanamatias.site",
+        "projectTitle": "Landing Page E-Book",
+        "projectSlogan": "Página web para venta de libros.",
+        "projectDescription": "E-Book es una empresa ficticia para realizar este proyecto.",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Sass",
+                "icon": "sass"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    },
+    {
+        "id": "rcalculator",
+        "carouselImages": ["1.jpg", "2.jpg", "3.jpg"],
+        "projectRepo": "https://github.com/OrellanaMatias/R_calculator",
+        "projectSite": "https://github.com/OrellanaMatias",
+        "projectTitle": "R Calculator",
+        "projectSlogan": "Calculadora de resistencia",
+        "projectDescription": "Es una aplicación diseñada para la agilizar el cálculo de los valores de la resistencia en un curso de Electricidad Domiciliaria, en el instituto CEA",
+
+        "projectTechnologies": [
+            {
+                "name": "Python",
+                "icon": "python"
+            }
+        ]
+    },
+    {
+        "id": "inventario",
+        "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg"],
+        "projectRepo": "https://github.com/OrellanaMatias",
+        "projectSite": "https://inventario.orellanamatias.site",
+        "projectTitle": "Sistema de inventario",
+        "projectSlogan": "Sistema de inventario para una carniceria",
+        "projectDescription": "Desarrollé un sistema de inventario ayudar a la carniceria a gestionar mejor sus ventas, clientes y productos, tiene funcionalidades avanzadas, como roles y permisos, encriptación de contraseñas, etc",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "PHP",
+                "icon": "php"
+            },
+            {
+                "name": "MySQL",
+                "icon": "mysql"
+            },
+            {
+                "name": "JQuery",
+                "icon": "jquery"
+            },
+            {
+                "name": "Bootstrap",
+                "icon": "bootstrap"
+            }
+        ]
+    },
+    {
+        "id": "travel",
+        "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
+        "projectRepo": "https://github.com/OrellanaMatias",
+        "projectSite": "https://travel.orellanamatias.site",
+        "projectTitle": "Web de viajes",
+        "projectSlogan": "Página web de una empresa de viajes",
+        "projectDescription": "No existe Travel, es una empresa ficticia para realizar este proyecto.",
+
+        "projectTechnologies": [
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "Sass",
+                "icon": "sass"
+            },
+            {
+                "name": "Figma",
+                "icon": "figma"
+            }
+        ]
+    }
+]

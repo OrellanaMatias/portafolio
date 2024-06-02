@@ -1,0 +1,48 @@
+---
+const { title } = Astro.props;
+import "../styles/globals.css";
+---
+
+<html lang="es" class="dark">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image" href="/favicon.webp" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <meta
+            name="description"
+            content="Matias Emanuel Orellana Ramirez"
+        />
+        <meta name="author" content="Orellana Matias" />
+        <meta
+            name="keywords"
+            content="Orellana Matias, Desarrollador, Estudiante, Developer, Técnico en Informática, Matias Orellana, Tengo sueño"
+        />
+        <meta
+            property="og:title"
+            content="Portafolio | Orellana Matias"
+        />
+        <meta property="og:url" content="https://orellanamatias.com.ar" />
+        <meta property="og:image" content="/ogimage.png" />
+        <meta
+            property="og:description"
+            content="Matias Emanuel Orellana Ramirez"
+        />
+        <title>{title}</title>
+    </head>
+    <body class="bg-light-fondo-primary dark:bg-dark-fondo-primary">
+        <slot />
+        <script>
+            const darkThemeMq = window.matchMedia(
+                "(prefers-color-scheme: dark)"
+            );
+            if (darkThemeMq.matches) {
+                document.body.classList.add("dark");
+                document.documentElement.classList.add("dark");
+            } else {
+                document.body.classList.remove("dark");
+                document.documentElement.classList.remove("dark");
+            }
+        </script>
+    </body>
+</html>

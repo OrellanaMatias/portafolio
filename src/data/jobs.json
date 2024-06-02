@@ -1,0 +1,45 @@
+[
+    {
+        "id": "le_warehouse",
+        "jobPicture": "kuttercraft.webp",
+        "jobColor": "#0086eb",
+        "jobTitle": "Pasante de Programación",
+        "jobTime": "Marzo 2024 - Junio 2024",
+        "jobCompany": "Kuttercraft",
+        "jobDescription": "Empresa dedicada a la venta de impresoras 3D.",
+        "jobActivities": [
+            "Mantenimiento a la página web de la empresa",
+            "Diseño y desarrollo de página web empresarial",
+            "Desarrollo de piezas 3D y su exhibición en la web utilizando Three.js",
+            "Uso de Google Analitycs y Google Tag Manager",
+            "Desarrollo con Google Apps Script",
+            "Implementación de una tienda con todos los productos, filtros, login con Google, usuarios, carritos de compras y pasarela de pago"
+        ],
+        "jobTechnologies": [
+            {
+                "name": "JavaScript",
+                "icon": "javascript"
+            },
+            {
+                "name": "HTML",
+                "icon": "html"
+            },
+            {
+                "name": "CSS",
+                "icon": "css"
+            },
+            {
+                "name": "Node.js",
+                "icon": "node"
+            },
+            {
+                "name": "Git",
+                "icon": "git"
+            },
+            {
+                "name": "Github",
+                "icon": "github"
+            }
+        ]
+    }
+]
