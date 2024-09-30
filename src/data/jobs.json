@@ -1,6 +1,6 @@
 [
     {
-        "id": "le_warehouse",
+        "id": "kuttercraft",
         "jobPicture": "kuttercraft.webp",
         "jobColor": "#0086eb",
         "jobTitle": "Pasante de Programación",
@@ -39,6 +39,27 @@
             {
                 "name": "Github",
                 "icon": "github"
+            }
+        ]
+    },
+    {
+        "id": "grafica",
+        "jobPicture": "itel.webp",
+        "jobColor": "#0086eb",
+        "jobTitle": "Pasante de impresión 3D",
+        "jobTime": "Agosto 2024 - Octubre 2024",
+        "jobCompany": "Instituto Técnico Dr. Emilio Lamarca",
+        "jobDescription": "Colegio Técnico Especializado en Informática",
+        "jobActivities": [
+            "Diseño de piezas y modelos 3D",
+            "Calibración y mantenimiento de impresoras 3D",
+            "Impresión de piezas 3D",
+            "Uso de software de modelado 3D, Tinkercad, AutoCAD, Fusion360, Ultimaker Cura"
+        ],
+        "jobTechnologies": [
+            {
+                "name": "Ultimaker Cura",
+                "icon": "cura"
             }
         ]
     }
