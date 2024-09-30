@@ -86,7 +86,7 @@
     {
         "id": "e-book",
         "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"],
-        "projectRepo": "https://github.com/OrellanaMatias/",
+        "projectRepo": "https://github.com/OrellanaMatias/landing-e-book",
         "projectSite": "https://orellanamatias.github.io/landing-e-book",
         "projectTitle": "Landing Page E-Book",
         "projectSlogan": "Página web para venta de libros.",
@@ -118,8 +118,8 @@
     {
         "id": "kantrack",
         "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
-        "projectRepo": "https://github.com/OrellanaMatias/kantrack",
-        "projectSite": "https://github.com/OrellanaMatias/kantrack",
+        "projectRepo": "https://github.com/OrellanaMatias/KanTrack",
+        "projectSite": "https://kantrack.infinityfreeapp.com",
         "projectTitle": "KanTrack",
         "projectSlogan": "Software de gestión de proyectos",
         "projectDescription": "Basado en la metodologia Kanban.",
@@ -206,7 +206,7 @@
     {
         "id": "travel",
         "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
-        "projectRepo": "https://github.com/OrellanaMatias",
+        "projectRepo": "https://github.com/OrellanaMatias/landing-travel",
         "projectSite": "https://orellanamatias.github.io/landing-travel",
         "projectTitle": "Web de viajes",
         "projectSlogan": "Página web de una empresa de viajes",
