@@ -119,7 +119,7 @@
         "id": "kantrack",
         "carouselImages": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
         "projectRepo": "https://github.com/OrellanaMatias/KanTrack",
-        "projectSite": "https://kantrack.infinityfreeapp.com",
+        "projectSite": "http://kantrack.infinityfreeapp.com",
         "projectTitle": "KanTrack",
         "projectSlogan": "Software de gestión de proyectos",
         "projectDescription": "Basado en la metodologia Kanban.",
